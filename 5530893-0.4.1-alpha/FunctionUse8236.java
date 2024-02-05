@@ -1,0 +1,6 @@
+import org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos.DataEncryptionKeyProto.Builder;
+public class FunctionUse8236 {
+public void funcUse() {
+Builder builder = new Builder();
+}
+}

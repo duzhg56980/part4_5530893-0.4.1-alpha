@@ -1,0 +1,7 @@
+import org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos.BucketArgs;
+public class FunctionUse3874 {
+public void funcUse() {
+BucketArgs bucketargs = new BucketArgs();
+bucketargs.access$32600();
+}
+}

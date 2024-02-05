@@ -1,0 +1,7 @@
+import org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos;
+public class FunctionUse9888 {
+public void funcUse() {
+OzoneManagerProtocolProtos ozonemanagerprotocolprotos = new OzoneManagerProtocolProtos();
+ozonemanagerprotocolprotos.access$58702(null);
+}
+}
